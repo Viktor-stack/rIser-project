@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "ion-rangeslider": "^2.3.0",
+    "page-scroll-to-id": "^1.6.3",
     "rateyo": "^2.3.5"
   }
 }
